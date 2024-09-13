@@ -1,6 +1,8 @@
 # Paint in linux terminal
 Works on linux only!
 
+**Program not realeased yet!**
+
 ### Requirements
 - Linux
 - CMake (build system)
